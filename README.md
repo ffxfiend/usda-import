@@ -12,8 +12,8 @@ ASCII files are delimited. All fields are separated by carets (^) and text field
 
 
 TODO
-====
+----
 
-1: Expand to include all optional datafiles.
-2: Optimize script
-3: Find a better way to deal with the encoding?
+1. Expand to include all optional datafiles.
+2. Optimize script
+3. Find a better way to deal with the encoding?
